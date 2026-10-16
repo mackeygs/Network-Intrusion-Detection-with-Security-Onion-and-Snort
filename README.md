@@ -145,4 +145,4 @@ Analyzing the attack alerts was the most interesting part. The SYN flood was nev
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional and Student at the University of Cincinnati.
